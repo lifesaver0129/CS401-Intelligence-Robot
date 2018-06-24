@@ -1,0 +1,8 @@
+prefix=/home/lifesaver/catkin_ws/devel
+
+Name: odometry_publisher
+Description: Description of odometry_publisher
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/lifesaver/catkin_ws/devel/lib 
+Requires: 

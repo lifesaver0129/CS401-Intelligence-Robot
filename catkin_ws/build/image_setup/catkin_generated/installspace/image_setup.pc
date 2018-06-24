@@ -1,0 +1,8 @@
+prefix=/home/lifesaver/catkin_ws/install
+
+Name: image_setup
+Description: Description of image_setup
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/lifesaver/catkin_ws/install/lib 
+Requires: 

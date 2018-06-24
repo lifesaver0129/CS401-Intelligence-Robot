@@ -1,0 +1,2 @@
+beginner_tutorials:camera_publisher:image_setup:odometry_publisher:robot_setup_tf
+-DCATKIN_DEVEL_PREFIX=/home/lifesaver/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/lifesaver/catkin_ws/install -G Unix Makefiles

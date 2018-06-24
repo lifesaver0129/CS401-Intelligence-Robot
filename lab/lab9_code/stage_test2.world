@@ -1,0 +1,19 @@
+
+define map model
+(
+       bitmap "bitmaps/maze.png"
+       size [15 15 2]
+       color "blue"
+       # determine how the model appears in various sensors
+       obstacle_return 1
+       ranger_return 1.0
+ )
+
+window
+(
+    size [ 700 700 ]
+    scale 41 # =window size/map size
+    show_data 1
+)
+
+map()

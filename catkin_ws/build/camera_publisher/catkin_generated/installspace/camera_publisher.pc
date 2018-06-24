@@ -1,0 +1,8 @@
+prefix=/home/lifesaver/catkin_ws/install
+
+Name: camera_publisher
+Description: Description of camera_publisher
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/lifesaver/catkin_ws/install/lib 
+Requires: 

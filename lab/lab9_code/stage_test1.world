@@ -1,0 +1,7 @@
+window
+(
+    size [ 700 700 ]
+    scale 41 # =window size/map size
+    show_data 1
+)
+
