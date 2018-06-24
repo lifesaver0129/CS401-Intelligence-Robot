@@ -1,23 +1,28 @@
 # CS401 Intelligence Robot
 
+## Labs
+
+
+
+## Project
+
+
+
+
+
 ## Midterm exam
 
-* (20) Lecture 0 - Lecture 3
-    - Multiple choices
+* Multiple choices * 5
 
-* (20) Lecture 4
-    - MM Bayes
+* MM Bayes
 
-* (20) Lecture 5
-    - Motion modd
+* Motion modd
 
-* (20) Lecture 6
-    - Beam scan landmark
+* Beam scan landmark
 
-* (20) Lecture 7
-    - Kalman
-        + Prediction
-        + Correction
+* Kalman
+    + Prediction
+    + Correction
 
 ## Final exam
 
