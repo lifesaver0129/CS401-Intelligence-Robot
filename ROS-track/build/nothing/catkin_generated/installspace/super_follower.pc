@@ -1,0 +1,8 @@
+prefix=/home/turtlebot/catkin_ws/install
+
+Name: super_follower
+Description: Description of super_follower
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/turtlebot/catkin_ws/install/lib 
+Requires: 
