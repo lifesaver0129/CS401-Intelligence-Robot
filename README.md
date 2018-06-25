@@ -1,14 +1,16 @@
 # CS401 Intelligence Robot
 
-## Labs
+## Homeworks
 
-
+* Homework 1: Robot Architecture
+* Homework 2: Sensor
+* Homework 3: Probabilistic Robotics
+* Homework 4: Probabilistic Sensor
+* Homework 5: Particle Filter
 
 ## Project
 
-
-
-
+Tracking robot (unfinished prototype)
 
 ## Midterm exam
 
