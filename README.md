@@ -15,16 +15,10 @@ Tracking robot (unfinished prototype)
 ## Midterm exam
 
 * Multiple choices * 5
-
 * MM Bayes
-
 * Motion modd
-
 * Beam scan landmark
-
-* Kalman
-    + Prediction
-    + Correction
+* Kalman filter
 
 ## Final exam
 
