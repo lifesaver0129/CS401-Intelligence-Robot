@@ -12,6 +12,8 @@
 
 Tracking robot (unfinished prototype)
 
+DEMO: https://youtu.be/2_OEcajulGE
+
 ## Midterm exam
 
 * Multiple choices * 5
